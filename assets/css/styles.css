@@ -1080,3 +1080,8 @@ input {
   color: black;
 }
 
+.home__data-title{
+  text-stroke: 1px white;
+  
+}
+
